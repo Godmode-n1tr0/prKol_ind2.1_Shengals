@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\bin\Debug\prKol_ind2.1_Shengals.exe.config
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\bin\Debug\prKol_ind2.1_Shengals.exe
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\bin\Debug\prKol_ind2.1_Shengals.pdb
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2.1_Shengals.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2._1_Shengals.Form1.resources
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2._1_Shengals.Properties.Resources.resources
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2.1_Shengals.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2.1_Shengals.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2.1_Shengals.exe
+C:\Users\305-3\Desktop\Шенгальс_Пр-24\prKol_ind2.1_Shengals\obj\Debug\prKol_ind2.1_Shengals.pdb
